@@ -1,1 +1,2 @@
-# CPU-Performace-Prediction
+# Estimated-Relative-Performance-ERP-prediction-of-Relative-CPU-performance-data
+Analysed a relative CPU performance data (described in cycle time, memory size,etc..), available on the UCI Machine Learning Repository website to predict the Estimated Relative Performance (ERP) using regularised regression models, Normal equation model, Lasso selected regression models and polynomial regression models.
